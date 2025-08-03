@@ -7,3 +7,6 @@
 [submodule "pycomlink"]
 	path = pycomlink
 	url = https://github.com/pycomlink/pycomlink
+[submodule "OPENSENSE_sandbox"]
+	path = OPENSENSE_sandbox
+	url = https://github.com/OpenSenseAction/OPENSENSE_sandbox
