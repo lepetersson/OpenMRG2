@@ -10,3 +10,6 @@
 [submodule "OPENSENSE_sandbox"]
 	path = OPENSENSE_sandbox
 	url = https://github.com/OpenSenseAction/OPENSENSE_sandbox
+[submodule "pypwsqc"]
+	path = pypwsqc
+	url = https://github.com/OpenSenseAction/pypwsqc.git
